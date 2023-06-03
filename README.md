@@ -78,10 +78,10 @@ df.isnull().sum()
 
 ![image](https://github.com/nivetharajaa/Ex-01-Data-Cleaning/assets/120543388/a823649e-3a75-4469-bb28-b29818ceaee8)
 
-##MEAN
 
 ![image](https://github.com/nivetharajaa/Ex-01-Data-Cleaning/assets/120543388/8efaecc0-216e-4a33-9b41-0829913379c8)
 
+##MEAN
 
 ![image](https://github.com/nivetharajaa/Ex-01-Data-Cleaning/assets/120543388/963b685d-887c-4edc-b48e-635932d789a7)
 
