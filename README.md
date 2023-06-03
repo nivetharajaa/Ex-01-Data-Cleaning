@@ -70,14 +70,17 @@ df.isnull().sum()
 
 ![image](https://github.com/nivetharajaa/Ex-01-Data-Cleaning/assets/120543388/20ed2513-41fa-4634-b208-42348abee952)
 
-##NON NULL BEFORE
 
 ![image](https://github.com/nivetharajaa/Ex-01-Data-Cleaning/assets/120543388/4355a678-cd97-4122-b738-dd5cf2c787bf)
 
-##MODE
+
+##NON NULL BEFORE
+
 
 ![image](https://github.com/nivetharajaa/Ex-01-Data-Cleaning/assets/120543388/a823649e-3a75-4469-bb28-b29818ceaee8)
 
+
+##MODE
 
 ![image](https://github.com/nivetharajaa/Ex-01-Data-Cleaning/assets/120543388/8efaecc0-216e-4a33-9b41-0829913379c8)
 
