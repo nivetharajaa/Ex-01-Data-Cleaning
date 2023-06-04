@@ -66,7 +66,7 @@ df.isnull().sum()
 
 # OUPUT
 
-##DATA:
+## DATA:
 
 ![image](https://github.com/nivetharajaa/Ex-01-Data-Cleaning/assets/120543388/20ed2513-41fa-4634-b208-42348abee952)
 
@@ -74,30 +74,30 @@ df.isnull().sum()
 ![image](https://github.com/nivetharajaa/Ex-01-Data-Cleaning/assets/120543388/4355a678-cd97-4122-b738-dd5cf2c787bf)
 
 
-##NON NULL BEFORE
+## NON NULL BEFORE
 
 
 ![image](https://github.com/nivetharajaa/Ex-01-Data-Cleaning/assets/120543388/a823649e-3a75-4469-bb28-b29818ceaee8)
 
 
-##MODE
+## MODE
 
 ![image](https://github.com/nivetharajaa/Ex-01-Data-Cleaning/assets/120543388/8efaecc0-216e-4a33-9b41-0829913379c8)
 
-##MEAN
+## MEAN
 
 ![image](https://github.com/nivetharajaa/Ex-01-Data-Cleaning/assets/120543388/963b685d-887c-4edc-b48e-635932d789a7)
 
-##MEDIAN
+## MEDIAN
 
 ![image](https://github.com/nivetharajaa/Ex-01-Data-Cleaning/assets/120543388/4977f3b8-c8be-40b3-9643-c2c9024026ae)
 
-##NON NULL AFTER
+## NON NULL AFTER
 
 ![image](https://github.com/nivetharajaa/Ex-01-Data-Cleaning/assets/120543388/77c5ae62-0342-4849-b7ff-4f446ea1f665)
 
 
-##RESULT
+# RESULT
 
 Thus, the given data is read, cleansed and the cleansed data is saved into the file.
 
